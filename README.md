@@ -5,12 +5,12 @@ The application you are building is called Potlukk. It is an application for hos
 - Technical Requirements
 
 ## Due Dates
-- ***2/7***
-  - Signup page and user stories complete
-- ***2/9***
-  - Signin with redirect to home page. No functionality of home page expected
-- ***2/14**
-  - Host Page functionality complete
+- ***2/14***
+  - 1 MVPs Complete
+- ***2/15***
+  - 2 MVPs Complete
+- ***2/17**
+  - 4 MVPs Complete
 - ***2/20**
   - Due/ Presentations!!!
 - During the week of 2/14 Rory and I will be checking your repos and github projects to make sure you are on track
@@ -18,7 +18,6 @@ The application you are building is called Potlukk. It is an application for hos
 - All MVP user stories must be complete
 - Each page has been developed using proper BDD principles
   - Tests should be independent and use mocking when appropriate
-    - Use nock and react testing library
 - All code is in github
 - Project is tracked and managed with github projects
 - Github actions are used to
