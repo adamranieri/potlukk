@@ -10,7 +10,7 @@ router = APIRouter()
 def signin(credentials: PotlukkerCredentials) -> LukkerUserInfoOut:
 
     for lukker in list(lukkers.values()):
-        if lukker.username == credentials.username and lukker.password:
+        if lukker.username == credentials.username and lukker.password == credentials.password:
             return lukker.as_lukker_info_out()
             
     raise HTTPException(status_code=404)

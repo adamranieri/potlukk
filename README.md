@@ -110,7 +110,6 @@ The application you are building is called Potlukk. It is an application for hos
         - Events created by them 
         - Events that affect a potlukk they host or attend
 - Technial Details
-  - Use Redux-Thunks for making invite requests then showing the users you have invited
   - Navbar uses react router
   - clicking logout clears local storage and redirects to signin
 
