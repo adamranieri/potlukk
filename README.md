@@ -23,7 +23,6 @@ The application you are building is called Potlukk. It is an application for hos
 - Github actions are used to
   - Test your code
   - Host your code on github pages
-- **Failure to meet these requirements is grounds for an immediate drop**
 
 ### Key Terms
 - **Lukker**
